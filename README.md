@@ -1,4 +1,4 @@
-# Pose-Transfer
+# Pose-Transfer人体姿态迁移算法
 Code for the paper **Progressive Pose Attention for Person Image Generation** in **CVPR19(Oral)**. The paper is available [here](http://arxiv.org/abs/1904.03349). 
 
 <p float="center">
